@@ -7,5 +7,9 @@ Creating a new branch is quick.
 <<<<<<< HEAD
 test.
 =======
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
 >>>>>>> dev
